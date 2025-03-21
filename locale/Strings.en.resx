@@ -59,21 +59,21 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="hello_world" xml:space="preserve">
-    <value></value>
+    <value>Hello World</value>
   </data>
   <data name="Food" xml:space="preserve">
-    <value></value>
+    <value>Food</value>
   </data>
   <data name="Money" xml:space="preserve">
-    <value></value>
+    <value>Money</value>
   </data>
   <data name="Hello" xml:space="preserve">
-    <value></value>
+    <value>Hello!</value>
   </data>
   <data name="Bread" xml:space="preserve">
-    <value></value>
+    <value>Bread</value>
   </data>
   <data name="BLOQUEAR_CAMPO_DE_TAREFA_NA_TELA_DE_CADASTRO_DE_SOLICITACAO_DE_EMBARQUE" xml:space="preserve">
-    <value></value>
+    <value>Lock task field on boarding request registration screen</value>
   </data>
 </root>
