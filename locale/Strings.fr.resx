@@ -59,21 +59,24 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="hello_world" xml:space="preserve">
-    <value></value>
+    <value>Bonjour le monde</value>
   </data>
   <data name="Food" xml:space="preserve">
-    <value></value>
+    <value>Nourriture</value>
   </data>
   <data name="Money" xml:space="preserve">
-    <value></value>
+    <value>Argent</value>
   </data>
   <data name="Hello" xml:space="preserve">
-    <value></value>
+    <value>Bonjour!</value>
   </data>
   <data name="Bread" xml:space="preserve">
-    <value></value>
+    <value>Pain</value>
   </data>
   <data name="BLOQUEAR_CAMPO_DE_TAREFA_NA_TELA_DE_CADASTRO_DE_SOLICITACAO_DE_EMBARQUE" xml:space="preserve">
-    <value></value>
+    <value>Verrouiller le champ de tâche sur l'écran d'enregistrement de la demande d'embarquement</value>
+  </data>
+  <data name="JS__COMMON__GOODBYE" xml:space="preserve">
+    <value>Au revoir</value>
   </data>
 </root>
