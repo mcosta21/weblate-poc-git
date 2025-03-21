@@ -76,4 +76,7 @@
   <data name="BLOQUEAR_CAMPO_DE_TAREFA_NA_TELA_DE_CADASTRO_DE_SOLICITACAO_DE_EMBARQUE" xml:space="preserve">
     <value>Bloquear campo de tarefa na tela de cadastro de solicitação de embarque</value>
   </data>
+  <data name="JS__COMMON__GOODBYE" xml:space="preserve">
+    <value>Adeus</value>
+  </data>
 </root>
