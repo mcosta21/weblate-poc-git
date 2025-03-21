@@ -79,4 +79,7 @@
   <data name="JS__COMMON__GOODBYE" xml:space="preserve">
     <value>Adiós</value>
   </data>
+  <data name="JS__COMMON__EMBARK" xml:space="preserve">
+    <value>Embarque</value>
+  </data>
 </root>
