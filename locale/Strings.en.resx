@@ -82,4 +82,7 @@
   <data name="JS__COMMON__EMBARK" xml:space="preserve">
     <value>Boarding</value>
   </data>
+  <data name="save" xml:space="preserve">
+    <value>Save</value>
+  </data>
 </root>
