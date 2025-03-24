@@ -82,4 +82,7 @@
   <data name="JS__COMMON__EMBARK" xml:space="preserve">
     <value>Embarque</value>
   </data>
+  <data name="save" xml:space="preserve">
+    <value>Salvar</value>
+  </data>
 </root>
